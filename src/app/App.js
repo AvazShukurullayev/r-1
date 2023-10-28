@@ -1,5 +1,6 @@
 import React from 'react';
-import {KeeperApp} from "../components";
+import KeeperApp from "../keeper-app/KeeperApp";
+
 
 const App = () => {
     return (

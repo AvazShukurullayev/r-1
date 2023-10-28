@@ -1,4 +1,3 @@
-export {default as KeeperApp} from "./keeper-app/KeeperApp"
 export {default as Header} from "./header/Header"
 export {default as Main} from "./main/Main"
 export {default as Note} from "./note/Note"

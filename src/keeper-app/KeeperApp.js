@@ -1,5 +1,5 @@
 import React from 'react';
-import {Footer, Header, Main} from "../index";
+import {Footer, Header, Main} from "./components";
 
 const KeeperApp = () => {
     return (
