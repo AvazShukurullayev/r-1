@@ -1,6 +1,7 @@
 import React from 'react';
 import KeeperApp from "../keeper-app/KeeperApp";
 import TimeFunc from "../time-functionality/TimeFunc";
+import MovieProps from "../movie-props/MovieProps";
 
 
 const App = () => {
@@ -8,6 +9,7 @@ const App = () => {
         <div className="app font-monospace">
             <KeeperApp/>
             <TimeFunc />
+            <MovieProps />
         </div>
     );
 };
